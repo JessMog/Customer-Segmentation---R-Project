@@ -19,7 +19,7 @@ This study shall be deemed successful if:
 
 Customer Segmentation is the process of dividing the customer-base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, level of education, credit score, interests, and miscellaneous spending habits etc.Customer segmentation can help us divide a diverse market into a number of smaller, more homogeneous markets based on one or more meaningful characteristics.
 
-## The importance of customer segmentation include:
+## The importance of customer segmentation includes:
 
 - Greater company focus - companies are able to understand its customer base/segments and as such be ware of what products or services to serve what segment of their customer base.
 - Targetted communication - with specified segments, companies can know and choose proper communication platforms and pass information relevant to each segment
