@@ -1,10 +1,12 @@
 # Customer-Segmentation---R-Project
 K-means and Hierarchical clustering on a bank's customer data
 ## Problem Definition
- ### Defining the Data Analytic Question
 
-- Difficulty in understanding how the various patterns of customers to a bank influence their chances of loan defaulting
-- A Gap in understanding how the different patterns of customers relate and how a bank can mine information to streamline its marketing strategy to specific customer segments
+ ### Shaping the inquiries that will guide analysis:
+
+- Predicting loan defaults based on customer behavior.
+- The relationship between customer behavior patterns and their financial needs is not fully understood, creating challenges in crafting targeted marketing campaigns.
+  
 We shall, therefore, perform a K-means and Hierarchical clustering on a bank's customer data to draw insights on the characteristics of different customers
 
 ## Metrics for Success
@@ -15,9 +17,10 @@ This study shall be deemed successful if:
 - Relevant insights are drawn from data analysis
 - Optimal clustering of customers based on their characteristics
 - Comparisons of both K-Means and Hierarchical clustering on the dataset are well illustrated
+- 
 ## Context
 
-Customer Segmentation is the process of dividing the customer-base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, level of education, credit score, interests, and miscellaneous spending habits etc.Customer segmentation can help us divide a diverse market into a number of smaller, more homogeneous markets based on one or more meaningful characteristics.
+Customer Segmentation is the process of dividing the customer-base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, level of education, credit score, interests, and miscellaneous spending habits etc. Customer segmentation can help us divide a diverse market into a number of smaller, more homogeneous markets based on one or more meaningful characteristics.
 
 ## The importance of customer segmentation includes:
 
