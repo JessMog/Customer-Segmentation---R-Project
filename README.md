@@ -17,7 +17,7 @@ This study shall be deemed successful if:
 - Relevant insights are drawn from data analysis
 - Optimal clustering of customers based on their characteristics
 - Comparisons of both K-Means and Hierarchical clustering on the dataset are well illustrated
-- 
+  
 ## Context
 
 Customer Segmentation is the process of dividing the customer-base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, level of education, credit score, interests, and miscellaneous spending habits etc. Customer segmentation can help us divide a diverse market into a number of smaller, more homogeneous markets based on one or more meaningful characteristics.
