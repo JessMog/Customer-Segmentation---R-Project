@@ -8,7 +8,7 @@ K-means and Hierarchical clustering on a bank's customer data
 - The relationship between customer behavior patterns and their financial needs is not fully understood, creating challenges in crafting targeted marketing campaigns.
   
 We shall, therefore, perform a K-means and Hierarchical clustering on a bank's customer data to draw insights on the characteristics of different customers
-   
+     
 ## Metrics for Success     
    
 This study shall be deemed successful if:    
