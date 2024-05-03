@@ -14,7 +14,7 @@ We shall, therefore, perform a K-means and Hierarchical clustering on a bank's c
 This study shall be deemed successful if:    
     
 - EDA is properly performed on the data  
-- Relevant insights are drawn from data analysis
+- Relevant insights are drawn from data analysis  
 - Optimal clustering of customers based on their characteristics
 - Comparisons of both K-Means and Hierarchical clustering on the dataset are well illustrated
   
