@@ -11,7 +11,7 @@ We shall, therefore, perform a K-means and Hierarchical clustering on a bank's c
              
 ## Metrics for Success             
                         
-This study shall be deemed successful if:                        
+This study shall be deemed successful if:                         
           
 - EDA is properly performed on the data    
 - Relevant insights are drawn from data analysis    
