@@ -10,7 +10,7 @@ K-means and Hierarchical clustering on a bank's customer data
 We shall, therefore, perform a K-means and Hierarchical clustering on a bank's customer data to draw insights on the characteristics of different customers
              
 ## Metrics for Success                          
-                                          
+                                            
 This study shall be deemed successful if:                                  
                         
 - EDA is properly performed on the data    
